@@ -1,4 +1,4 @@
-# HNGx Task One 🔥
+# HNGx Task One 🛠️
 
 ## Task: Frontend Page Creation with Specific Elements
 
@@ -25,7 +25,3 @@ Requirements:
 - GitHub URL:
   Provide a clickable link to your GitHub repository where the source code for this task resides.
   Attribute: data-testid=“githubURL”
-
-# Solution 🚀
-
-![mobile View](https://github.com/OgaDavid/HNGx-Task-One/blob/main/public/images/mobile.png?raw=true)
